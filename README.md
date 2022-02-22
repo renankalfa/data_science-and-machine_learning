@@ -5,4 +5,4 @@ Arquivos do curso de Data Science e Machine Learning com Python na Udemy, [cliqu
 
 O **principal do arquivo do curso é o "Classificação.ipynb"** e pode ser acessado [clicando aqui](https://github.com/renankalfa/data_science-and-machine_learning/blob/main/Classificação.ipynb). Nele contém todo o passo a passo que estou realizando para importar duas bases de dados, realizar a limpeza e tratamento dos dados e posteriormente o treinamento, previsões e resultados de vários algoritmos. Bem como o seu aperfeiçoamento para melhores resultados.
 
-No momento estou com 40% do curso concluído e ainda me falta um grande caminho pela frente. Estou adorando e cada vez mais fascinado por isso. 😍
+No momento estou com 60% do curso concluído e ainda me falta um grande caminho pela frente. Estou adorando e cada vez mais fascinado por isso. 😍
