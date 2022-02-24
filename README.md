@@ -54,7 +54,7 @@ Uma base de dados no qual fornece informações sobre cada pessoa (idade, trabal
 |Naïve Bayes| 93,8% | 47,6% |
 |Árvores de decisão| 98,2% | 81,0% |
 |Random Forest| 98,6% | 85,0% |
-|Regras| 97,4% | 78,9 |
+|Regras| 97,4% | 78,9% |
 |Majority learner| 85,85% | 75,91% |
 |KNN| 98,6% | 82,9% |
 |Regressão logística| 94,6% | 84,9% |
