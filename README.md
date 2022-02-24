@@ -47,3 +47,16 @@ Arquivos do curso de Data Science e Machine Learning com Python na Udemy, [cliqu
 Uma base de dados no qual fornece informações sobre cada pessoa (idade, trabalho, educação, ocupação, relacionamento, raça...) com 32562 registros, junto com a informação se a renda anual seria >50K ou <50K de dólares. O objetivo aqui era prever a renda da pessoa com base em algumas informações/características sobre a pessoa. Ela pode ser encontrada [clicando aqui](https://archive.ics.uci.edu/ml/datasets/adult).
 
 <img width="1396" alt="base census" src="https://user-images.githubusercontent.com/97196457/155520775-52799267-6c5a-4b2d-a4d9-372cfa4b51e6.png">
+
+## Resultados Obtidos
+| Algoritmo | Credit Data | Census |
+|-----------|-------------|--------|
+|Naïve Bayes| 93,8% | 47,6% |
+|Árvores de decisão| 98,2% | 81,0% |
+|Random Forest| 98,6% | 85,0% |
+|Regras| 97,4% | 78,9 |
+|Majority learner| 85,85% | 75,91% |
+|KNN| 98,6% | 82,9% |
+|Regressão logística| 94,6% | 84,9% |
+|SVM| 98,8% | 85,0% |
+|Redes Neurais| 99,8% | 81,7% |
