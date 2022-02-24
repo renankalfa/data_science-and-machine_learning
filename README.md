@@ -48,7 +48,7 @@ Uma base de dados no qual fornece informações sobre cada pessoa (idade, trabal
 
 <img width="1396" alt="base census" src="https://user-images.githubusercontent.com/97196457/155520775-52799267-6c5a-4b2d-a4d9-372cfa4b51e6.png">
 
-## Resultados Obtidos
+## Resultados Obtidos (Accuracy)
 | Algoritmo | Credit Data | Census |
 |-----------|-------------|--------|
 |Naïve Bayes| 93,8% | 47,6% |
