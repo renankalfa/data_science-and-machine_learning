@@ -3,7 +3,7 @@ Arquivos do curso de Data Science e Machine Learning com Python na Udemy, [cliqu
 
 <img width="1796" alt="dfddf" src="https://user-images.githubusercontent.com/97196457/151352851-1d298d4e-f8a0-42f6-86b6-a7ae2e17c8de.png">
 
-O curso é dividido em cinco grandes partes:
+## O curso é dividido em cinco grandes partes:
 - Parte 1 - **Classificação**
     - Pré-processamento dos dados: visualização dos dados, tratamento da base de dados, divisão entre previsores e classe, escalonamento dos atributos, LabelEncoder e OneHotEncode;
     - Aprendizagem bayesiana;
@@ -37,3 +37,8 @@ O curso é dividido em cinco grandes partes:
     - Redução de dimensinalidade;
     - Detecção de outliers;
     - Séries temporais.
+## Base de dados utilizadas
+### Credit Data
+É uma base de dados histórica no qual nos fornece a renda (income), idade (age) e dívida (loan) de 2000 pessoas, junto com a informaçaõ se pagaria ou não o empréstimo (default). Essa foi uma base de dados com valores faltantes (3 registros) e inconsistentes (3 registros) que precisaram ser tratados. A base usada foi adaptada [deste link](https://www.kaggle.com/laotse/credit-risk-dataset).
+
+<img width="1396" alt="base credit" src="https://user-images.githubusercontent.com/97196457/155519556-80177b28-2f61-4feb-91cc-4378d7d4b19e.png">
