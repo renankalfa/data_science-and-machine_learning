@@ -39,6 +39,11 @@ Arquivos do curso de Data Science e Machine Learning com Python na Udemy, [cliqu
     - Séries temporais.
 ## Base de dados utilizadas
 ### Credit Data
-É uma base de dados histórica no qual nos fornece a renda (income), idade (age) e dívida (loan) de 2000 pessoas, junto com a informaçaõ se pagaria ou não o empréstimo (default). Essa foi uma base de dados com valores faltantes (3 registros) e inconsistentes (3 registros) que precisaram ser tratados. A base usada foi adaptada [deste link](https://www.kaggle.com/laotse/credit-risk-dataset).
+É uma base de dados histórica no qual nos fornece a renda (income), idade (age) e dívida (loan) de 2000 pessoas, junto com a informação se pagaria ou não o empréstimo (default). O objetivo aqui era treinar o algoritmo para prever se a pessoa pagaria ou não o empréstimo. Essa foi uma base de dados com valores faltantes (3 registros) e inconsistentes (3 registros) que precisaram ser tratados. A base usada foi adaptada [deste link](https://www.kaggle.com/laotse/credit-risk-dataset).
 
-<img width="1396" alt="base credit" src="https://user-images.githubusercontent.com/97196457/155519556-80177b28-2f61-4feb-91cc-4378d7d4b19e.png">
+<img width="1396" alt="base credit" src="https://user-images.githubusercontent.com/97196457/155520655-05c03edc-babc-4e3e-949a-39d98ae39d71.png">
+
+### Census
+Uma base de dados no qual fornece informações sobre cada pessoa (idade, trabalho, educação, ocupação, relacionamento, raça...) com 32562 registros, junto com a informação se a renda anual seria >50K ou <50K de dólares. O objetivo aqui era prever a renda da pessoa com base em algumas informações/características sobre a pessoa. Ela pode ser encontrada [clicando aqui](https://archive.ics.uci.edu/ml/datasets/adult).
+
+<img width="1396" alt="base census" src="https://user-images.githubusercontent.com/97196457/155520775-52799267-6c5a-4b2d-a4d9-372cfa4b51e6.png">
