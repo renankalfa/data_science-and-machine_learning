@@ -55,7 +55,7 @@ Uma base de dados no qual fornece informações sobre cada pessoa (idade, trabal
 |Árvores de decisão| 98,2% | 81,0% |
 |Random Forest| 98,6% | 85,0% |
 |Regras| 97,4% | 78,9% |
-|Majority learner| 85,85% | 75,91% |
+|Majority learner| 85,85% | 75,9% |
 |KNN| 98,6% | 82,9% |
 |Regressão logística| 94,6% | 84,9% |
 |SVM| 98,8% | 85,0% |
