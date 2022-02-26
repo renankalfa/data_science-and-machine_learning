@@ -1,5 +1,5 @@
 # Machine Learning e Data Science com Python
-Arquivos do curso de Data Science e Machine Learning com Python na Udemy, [clique aqui](https://www.udemy.com/course/machine-learning-e-data-science-com-python-y/?src=sac&kw=Machine+Learning+e+Data+Science+com+Python+de+A+à+Z) para acessá-lo. Estou com 75% do curso concluída.
+Arquivos do curso de Data Science e Machine Learning com Python na Udemy, [clique aqui](https://www.udemy.com/course/machine-learning-e-data-science-com-python-y/?src=sac&kw=Machine+Learning+e+Data+Science+com+Python+de+A+à+Z) para acessá-lo. Estou com 80% do curso concluída.
 
 <img width="1796" alt="dfddf" src="https://user-images.githubusercontent.com/97196457/151352851-1d298d4e-f8a0-42f6-86b6-a7ae2e17c8de.png">
 
