@@ -60,3 +60,5 @@ Uma base de dados no qual fornece informações sobre cada pessoa (idade, trabal
 |Regressão logística| 94,6% | 84,9% |
 |SVM| 98,8% | 85,0% |
 |Redes Neurais| 99,8% | 81,7% |
+
+Em construção...
